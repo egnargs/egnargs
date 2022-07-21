@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @egnargs
-- 👀 I’m interested in legal information, computable contracts, ontologies & knowledge graphs.
-- 🌱 I’m currently learning how to cook.
-- 💞️ I’m looking to collaborate on legal ontologies.
 - 📫 How to reach me... Twitter @samuel_grange
 
 <!---
